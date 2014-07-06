@@ -1,0 +1,1 @@
+const	ST_None			= 0;const	ST_Blob			= 1;const	ST_Static		= 2;const	ST_SunBased		= 3;

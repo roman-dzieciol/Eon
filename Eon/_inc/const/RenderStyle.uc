@@ -1,0 +1,1 @@
+const	CSTY_None			= 0;const	CSTY_Normal			= 1;const	CSTY_Masked			= 2;const	CSTY_Translucent	= 3;const	CSTY_Modulated		= 4;const	CSTY_Alpha			= 5;const	CSTY_Additive		= 6;const	CSTY_Subtractive	= 7;const	CSTY_Particle		= 8;const	CSTY_AlphaZ			= 9;

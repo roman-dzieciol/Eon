@@ -1,0 +1,1 @@
+const TEAM_HUMAN	= 0;const TEAM_BEAST	= 1;const TEAM_NEUTRAL	= 2;

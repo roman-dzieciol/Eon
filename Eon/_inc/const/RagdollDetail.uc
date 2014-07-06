@@ -1,0 +1,1 @@
+const	RDL_Low			= 0;const	RDL_Medium		= 1;const	RDL_High		= 2;
